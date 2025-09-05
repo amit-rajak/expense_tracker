@@ -1,0 +1,1 @@
+print("fast ap[i developed")
